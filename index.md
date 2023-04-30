@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is 寒海紫鸾
+subtitle: My name is CoderVjrm
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p> 所谓人生开挂，不过是厚积薄发。</p>
+	<p>做你<strong>感兴趣</strong>的事</p>
 </div>
