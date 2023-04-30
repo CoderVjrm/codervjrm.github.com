@@ -1,16 +1,15 @@
 # Site settings
-title: Pudhina
+title: CoderVjrm
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  所谓人生开挂，不过是厚积薄发。
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://codervjrm.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: CoderVjrm
   github: github
-  linkedin: linkedin
-  email: example@email.com
+  email: 1683714396cx@gmail.com
 
 
 # Syntax highlighting
