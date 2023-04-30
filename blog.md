@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 博客
+title: 总览
 subtitle: 
+permalink: /blog/
 ---
 
 <div>

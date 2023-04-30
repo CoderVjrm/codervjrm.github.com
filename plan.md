@@ -2,6 +2,7 @@
 layout: page
 title: 计划
 subtitle: 
+permalink: /plan/
 ---
 
 
