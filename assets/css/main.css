@@ -1,10 +1,17 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
-  body {
-    font-family: 'Quicksand', sans-serif;  
+  
+@font-face {
+  font-family: 'NotoSerifSC';
+  src: url('../vendor/font-awesome/fonts/NotoSerifSC-Regular.otf')
+}
+body {
+    font-family: 'Quicksand','NotoSerifSC',sans-serif;  
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
+
+    
 
   a {
     color: #57A;
