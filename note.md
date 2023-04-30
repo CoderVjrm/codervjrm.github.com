@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <div>
-{% assign postsNotes = site.posts | "post.notes"  %}
+{% assign postsNotes = site.posts | group_by_exp:"post","post.notes"  %}
 {% for note in postsNotes %}
 <h4 class="post-teaser__month">
 <strong>
