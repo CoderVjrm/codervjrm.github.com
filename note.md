@@ -5,5 +5,7 @@ subtitle:
 permalink: /note/
 ---
 
-<div align=center>![](https://codervjrm.github.io/assets/img/fa.jpg)
+<div align=center>
+    <img src="https://codervjrm.github.io/assets/img/fa.jpg" alt="fa">
+</div>
 
